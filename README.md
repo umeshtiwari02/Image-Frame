@@ -7,11 +7,6 @@ This is a simple app where we can access the local device image and change the f
 ## Screenshots
 
 <table>
- <tr>
-    <td>This is Home page</td>
-     <td>This is Contact page</td>
-     <td>This is Store House page</td>
-  </tr>
 <tr>
 <td><img src="screenshort/one.jpg" height= 600></td>
 <td><img src="screenshort/two.jpg" height= 600></td>
