@@ -8,13 +8,13 @@ This is a simple app where we can access the local device image and change the f
 
 <table>
 <tr>
-<td><img src="screenshort/one.jpg" height= 600></td>
-<td><img src="screenshort/two.jpg" height= 600></td>
-<td><img src="screenshort/three.jpg" height=600></td>
+<td><img src="screenshot/one.jpg" height= 600></td>
+<td><img src="screenshot/two.jpg" height= 600></td>
+<td><img src="screenshot/three.jpg" height=600></td>
 </tr>
 <tr>
-<td><img src="screenshort/four.jpg" height= 600></td>
-<td><img src="screenshort/five.jpg" height= 600></td>
-<td><img src="screenshort/six.jpg" height=600></td>
+<td><img src="screenshot/four.jpg" height= 600></td>
+<td><img src="screenshot/five.jpg" height= 600></td>
+<td><img src="screenshot/six.jpg" height=600></td>
 </tr>
 </table>
