@@ -1,16 +1,25 @@
 # Image Frame
 
-A new Flutter project.
+This is a simple app where we can access the local device image and change the frame. We can see the change on the main page.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+ <tr>
+    <td>This is Home page</td>
+     <td>This is Contact page</td>
+     <td>This is Store House page</td>
+  </tr>
+<tr>
+<td><img src="screenshort/one.jpg" height= 600></td>
+<td><img src="screenshort/two.jpg" height= 600></td>
+<td><img src="screenshort/three.jpg" height=600></td>
+</tr>
+<tr>
+<td><img src="screenshort/four.jpg" height= 600></td>
+<td><img src="screenshort/five.jpg" height= 600></td>
+<td><img src="screenshort/six.jpg" height=600></td>
+</tr>
+</table>
